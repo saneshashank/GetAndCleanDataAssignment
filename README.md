@@ -5,7 +5,7 @@
 * Unzip getdata_projectfiles_UCI HAR Dataset.zip from assignment and copy UCI HAR Dataset folder in working directory. 
 
 ## run_analysis.R contains following sections (demarcated by comments code):
-* Section 1: Set File paths - declares all file path variable. In case the folder location is not as mentioned in perquisite section above
+* Section 1: Set File paths - declares all file path variables. In case the folder location is not as mentioned in perquisite section above
 edit the file path variables.
 * Section 2: Extract test data based on X_test.txt, y_test.txt and subject_test.txt (in UCI HAR Dataset\test ).
 * Section 3: Extract training data based on X_train.txt, y_train.txt and subject_train.txt (in UCI HAR Dataset\train ).
