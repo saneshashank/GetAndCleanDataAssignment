@@ -1,5 +1,5 @@
 # Coursera: Getting and Cleaning Data: Project: run_analysis.R
-## extracting of Tidy dataset from data files in UCI HAR Dataset folderis divided into following 8 logical sections, with the corresponding variables defined.
+## extracting of Tidy dataset from data files in UCI HAR Dataset folder is divided into following 8 logical sections, with the corresponding variables defined.
 
 ## Section 1: Set File paths - declares all file path variable. In case the folder location is not in working directory
 edit the file path variables. Variables used:
