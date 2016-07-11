@@ -1,5 +1,11 @@
 # Coursera: Getting and Cleaning Data: Project: run_analysis.R
 
+##The repo contains the following files :
+* CodeBook: the instructions of the data processing
+* run_analysis.R: the R script
+* README: this present README file
+
+
 ## perquisites for running the code
 * dplyr package should be installed.
 * Unzip getdata_projectfiles_UCI HAR Dataset.zip from assignment and copy UCI HAR Dataset folder in working directory. 
